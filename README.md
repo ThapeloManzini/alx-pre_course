@@ -1,1 +1,1 @@
-My first readme
+Growth mindset is not fixed
