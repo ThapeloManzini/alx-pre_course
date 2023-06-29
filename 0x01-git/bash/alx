@@ -1,7 +1,6 @@
 #!/bin/bash
-echo "ALX School is so cool!"
-
-root@605afc6b646b:/alx-pre_course/0x01-git/bash# clear
+echo "ALX School is so cool"
+echo "ALX School"
 
 
 
